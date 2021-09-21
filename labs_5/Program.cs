@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace labs_4
+namespace labs_5
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("jsxoasxo;s");
         }
     }
 }
