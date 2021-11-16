@@ -209,6 +209,7 @@ namespace labs_12
                 }
             }
             else { Console.WriteLine("Введены неверные значения"); }
+            Console.WriteLine("");
 
 
             //задание 3
@@ -397,6 +398,9 @@ namespace labs_12
                 {
                     switch (_x1)
                     {
+                        case 0:
+                            Console.Write("десять");
+                            break;
                         case 1:
                             Console.Write("одиннадцать");
                             break;
