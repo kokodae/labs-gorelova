@@ -17,6 +17,7 @@ namespace labs_13
                 _cost1 = Math.Round(_cost * i, 2);
                 Console.WriteLine($"Цена за {Math.Round(0.1 * i, 2)} кг равна {_cost1}");
             }
+            Console.WriteLine("");
 
 
             //задание 2
@@ -34,6 +35,7 @@ namespace labs_13
                 Console.WriteLine($"Произведение равно {_pr1}");
             }
             else { Console.WriteLine("Введены неверные значения"); }
+            Console.WriteLine("");
 
 
             //задание 3
@@ -52,6 +54,7 @@ namespace labs_13
                 Console.WriteLine($"Квадрат числа равен {_sq}");
             }
             else { Console.WriteLine("Введены неверные значения"); }
+            Console.WriteLine("");
 
 
             //задание 4 и 5
