@@ -54,7 +54,7 @@ namespace labs_13
             else { Console.WriteLine("Введены неверные значения"); }
 
 
-            //задание 4 & 5
+            //задание 4 и 5
             Console.WriteLine("Введите числa A и N (N больше нуля):");
             double _a = double.Parse(Console.ReadLine());
             int _n = int.Parse(Console.ReadLine());
