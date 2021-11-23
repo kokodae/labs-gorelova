@@ -56,8 +56,7 @@ namespace labs_14
                     _sum3 = _sum3 + _k3;
                     _k3++;
                 }
-                _sum3 = _sum3 - _k3 + 1;
-                Console.WriteLine($"К равно {_k3 - 2}, а сумма - {_sum3}");
+                Console.WriteLine($"К равно {_k3 - 1}, а сумма - {_sum3}");
             }
             else { Console.WriteLine("Введены неверные значения"); }
             Console.WriteLine("");
